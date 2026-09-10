@@ -1,6 +1,6 @@
 import pandas as pd
 import sqlite3
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 import os
 
 def clean_data_and_load_db():
@@ -65,7 +65,7 @@ def clean_data_and_load_db():
         with open('sql/schema.sql', 'r') as f:
             for statement in f.read().split(';'):
                 if statement.strip():
-                    connection.execute(statement)
+                    connection.execute(text(statement))
 
     df_fund.to_sql('dim_fund', con=engine, if_exists='append', index=False)
     df_date.to_sql('dim_date', con=engine, if_exists='append', index=False)

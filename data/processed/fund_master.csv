@@ -1,0 +1,41 @@
+amfi_code,amc,scheme_name,category,risk_grade,expense_ratio
+115795,SBI,SBI Equity Fund 1,Hybrid,High,1.97
+111284,SBI,SBI Hybrid Fund 2,Debt,High,0.34
+121962,SBI,SBI Equity Fund 3,Hybrid,Moderate,0.24
+102433,SBI,SBI Equity Fund 4,Equity,Very High,1.57
+106396,HDFC,HDFC Equity Fund 1,Equity,High,1.57
+118431,HDFC,HDFC Hybrid Fund 2,Debt,Moderate,1.98
+101899,HDFC,HDFC Hybrid Fund 3,Equity,High,2.16
+141606,HDFC,HDFC Equity Fund 4,Equity,High,0.13
+108792,ICICI,ICICI Debt Fund 1,Debt,Moderate,0.83
+102612,ICICI,ICICI Debt Fund 2,Hybrid,Very High,0.39
+117159,ICICI,ICICI Hybrid Fund 3,Hybrid,Moderate,1.04
+101585,ICICI,ICICI Debt Fund 4,Debt,Moderate,0.6
+140757,Nippon,Nippon Equity Fund 1,Hybrid,Moderate,1.96
+100161,Nippon,Nippon Debt Fund 2,Debt,Very High,1.53
+111534,Nippon,Nippon Debt Fund 3,Hybrid,Very High,0.21
+124276,Nippon,Nippon Equity Fund 4,Debt,High,2.09
+112185,Kotak,Kotak Equity Fund 1,Equity,Low,0.81
+149216,Kotak,Kotak Equity Fund 2,Hybrid,Low,1.95
+102027,Kotak,Kotak Hybrid Fund 3,Hybrid,High,1.8
+113986,Kotak,Kotak Hybrid Fund 4,Equity,High,0.28
+126854,Axis,Axis Debt Fund 1,Equity,Very High,2.17
+130535,Axis,Axis Debt Fund 2,Equity,Very High,0.99
+111837,Axis,Axis Equity Fund 3,Hybrid,Very High,1.63
+124538,Axis,Axis Hybrid Fund 4,Equity,High,0.39
+113773,ABSL,ABSL Hybrid Fund 1,Equity,Low,1.45
+106910,ABSL,ABSL Debt Fund 2,Hybrid,High,1.35
+121518,ABSL,ABSL Debt Fund 3,Debt,Very High,0.36
+148702,ABSL,ABSL Hybrid Fund 4,Equity,Very High,1.45
+122403,UTI,UTI Debt Fund 1,Equity,High,1.55
+101678,UTI,UTI Hybrid Fund 2,Equity,Very High,2.36
+116198,UTI,UTI Hybrid Fund 3,Hybrid,Moderate,2.21
+143689,UTI,UTI Equity Fund 4,Debt,Low,0.35
+129467,Mirae,Mirae Debt Fund 1,Debt,High,0.88
+110230,Mirae,Mirae Equity Fund 2,Hybrid,Moderate,0.36
+101306,Mirae,Mirae Debt Fund 3,Equity,Very High,0.95
+109474,Mirae,Mirae Hybrid Fund 4,Debt,Very High,1.38
+103748,DSP,DSP Equity Fund 1,Hybrid,Moderate,0.91
+134766,DSP,DSP Hybrid Fund 2,Debt,Very High,1.35
+103304,DSP,DSP Equity Fund 3,Debt,Low,0.71
+117675,DSP,DSP Debt Fund 4,Hybrid,Moderate,1.81

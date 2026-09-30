@@ -1,4 +1,4 @@
-## mutual-fund-analytics
+## mutual-fund-analytics 
 
 Implementation of the Mutual Fund Analytics Capstone for Bluestock Fintech.
 
